@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## cakeStrap on OpenShift
 
 Easily deploy cakeStrap (CakePHP + Twitter Bootstrap) on OpenShift
@@ -29,3 +30,7 @@ CakePHP Security:
 
 Have a question or found a bug? Please create an issue [here][] on GitHub!
 [here]: https://github.com/leegraham/cakeStrap-example/issues
+=======
+synapse
+=======
+>>>>>>> 99af0d113404defa33ebacedf473a697b8ec911a
